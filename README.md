@@ -8,7 +8,7 @@ float rounding), maintaining key order, and allowing duplicate keys.
 [![Swift 5.5](https://img.shields.io/badge/Swift-5.5-blue.svg)](https://swift.org/download/)
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![Swift](https://github.com/WebOfTrust/rnjson/actions/workflows/ci.yaml/badge.svg?branch=main)](https://github.com/WebOfTrust/rnjson/actions/workflows/ci.yaml)
-[![codecov](https://codecov.io/gh/weboftrust/rnjson/branch/main/graph/badge.svg?token=QmX4JiwGoZ)](https://codecov.io/gh/weboftrust/rnjson)
+[![codecov](https://codecov.io/gh/WebOfTrust/RNJSON/branch/main/graph/badge.svg?token=yWrlgQ4czu)](https://codecov.io/gh/WebOfTrust/RNJSON)
 
 
 #### Why
